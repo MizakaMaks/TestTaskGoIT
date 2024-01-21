@@ -1,0 +1,21 @@
+.car_cards_section {
+  padding-bottom: 150px;
+}
+
+.load_more_btn_wrapper {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.load_more_btn {
+  border: none;
+  background-color: transparent;
+  color: #3470ff;
+  text-decoration: underline;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  cursor: pointer;
+}
